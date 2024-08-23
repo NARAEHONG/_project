@@ -45,7 +45,7 @@
     font-size: 0;
     position: relative;
 }
-#mainVisual div p{
+#mainVisual div h2{
     position: absolute;
     top: 50%;
     left: 50%;
@@ -58,9 +58,9 @@
     width: 1200px;
     margin: 95px auto;
 }
-#container .best h2{
+#container .best h3{
     text-align: center;
-    font-size: 36px;
+    font-size: 30px;
     margin-bottom: 50px;
 }
 #container .best .list li a img{
@@ -100,7 +100,7 @@
 }
 .new div p{
     color: #fff;
-    font-size: 42px;
+    font-size: 35px;
     text-align: center;
     font-weight: 600;
     line-height: 240px;
@@ -109,9 +109,10 @@
     width: 1200px;
     margin: 95px auto;
 }
-.recommend h2{
-    font-size: 36px;
+.recommend h3{
+    font-size: 30px;
     margin-bottom: 50px;
+    text-align: center;
 }
 .recommend ul li{
     width: 285px;
